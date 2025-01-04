@@ -1,6 +1,6 @@
 import runGame from "../index.js";
 
-const description = 'Answer "yes" if given number is prime. Otherwise answr "no".';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const isPrime = (number) => {
     if (number < 2) 
