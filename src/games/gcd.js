@@ -1,4 +1,5 @@
-import runGame from "../index.js";
+import runGame from '../index.js';
+
 const description = 'Find the greatest common divisor of given numbers.';
 
 const findGcd =(a,b) =>  {
