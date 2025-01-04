@@ -7,3 +7,9 @@
 brain-gcd
 ## Запуск игры и тестированиеЖ
 (https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
+
+## Игра "Прогрессия"
+команда для запуска:
+brain-progression
+## запуск и тестирование:
+(https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
