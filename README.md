@@ -13,3 +13,8 @@ brain-gcd
 brain-progression
 ## запуск и тестирование:
 (https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
+## Игра "Простое Число"
+команда для запуска:
+brain-prime
+## Запуск игры:
+(https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
