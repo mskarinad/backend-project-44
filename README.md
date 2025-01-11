@@ -5,16 +5,16 @@
 ## Игра "НОД"
 Команда для запуска:
 brain-gcd
-## Запуск игры и тестированиеЖ
-(https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
+## Запуск игры и тестирование:
+[![asciicast](https://asciinema.org/a/MszVyfq43GW1SZUnI8UdcMtxc.svg)](https://asciinema.org/a/MszVyfq43GW1SZUnI8UdcMtxc)
 
 ## Игра "Прогрессия"
 команда для запуска:
 brain-progression
 ## запуск и тестирование:
-(https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
+[![asciicast](https://asciinema.org/a/7rQJHhrIDcruEAi03j4TK8DLF.svg)](https://asciinema.org/a/7rQJHhrIDcruEAi03j4TK8DLF)
 ## Игра "Простое Число"
 команда для запуска:
 brain-prime
 ## Запуск игры:
-(https://asciinema.org/connect/8297c8fb-0d79-41fc-9814-7de04a634759)
+[![asciicast](https://asciinema.org/a/6NNFHSd0RnBi3g9uWbW9cwnGE.svg)](https://asciinema.org/a/6NNFHSd0RnBi3g9uWbW9cwnGE)

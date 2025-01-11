@@ -1,8 +1,7 @@
 import runGame from '../index.js';
+import { generateRandomNumber } from '../utils.js';
 
 const description = 'What is the result of the expression?';
-
-const generateRandomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const operators = ['+', '-', '*'];
 
