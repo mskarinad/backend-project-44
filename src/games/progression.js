@@ -18,9 +18,9 @@ const generateRound = () => {
   const progression = generateProgression(start, step, length);
   const hiddenIndex = generateRandomNumber(0, length - 1);
   const correctAnswer = String(progression[hiddenIndex]);
-    progression[hiddenIndex] = '..';
+  progression[hiddenIndex] = '..';
   const question = progression.join(' ');
   return [question, correctAnswer];
-  };
-  
+};
+
 export default () => runGame(description, generateRound);
